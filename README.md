@@ -1,7 +1,7 @@
 <h1 align="center"> Habits </h1>
 
 <p align="center">
-Projeto desenvolvido durante o NWL Setup, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
+Projeto desenvolvido durante o NLW Setup, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
 </p>
 <br>
 
@@ -22,7 +22,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 O Habits é um app para ajudar a rastrear os hábitos.
 
-- [Visite o projeto online](https://maykbrito.github.io/nlw-setup)
+- [Visite o projeto online](https://lucascorreagoldani.github.io/nlw-setup-habits)
 
 ---
 
